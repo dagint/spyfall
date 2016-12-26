@@ -1,338 +1,342 @@
 locations = [
   {
-    name: 'locations.airplane',
+    name: 'locations.a burning building',
     roles: [
-      'locations.roles.airplane.first class passenger',
-      'locations.roles.airplane.air marshall',
-      'locations.roles.airplane.mechanic',
-      'locations.roles.airplane.air hostess',
-      'locations.roles.airplane.copilot',
-      'locations.roles.airplane.captain',
-      'locations.roles.airplane.economy class passenger'
+      'locations.roles.a burning building.arsonist',
+      'locations.roles.a burning building.baby',
+      'locations.roles.a burning building.emt',
+      'locations.roles.a burning building.firefighter',
+      'locations.roles.a burning building.kitty',
+      'locations.roles.a burning building.neighbor',
+      'locations.roles.a burning building.survivors'
     ]
   },
   {
-    name: 'locations.bank',
+    name: 'locations.a giant peach',
     roles: [
-      'locations.roles.bank.armored car driver',
-      'locations.roles.bank.manager',
-      'locations.roles.bank.consultant',
-      'locations.roles.bank.robber',
-      'locations.roles.bank.security guard',
-      'locations.roles.bank.teller',
-      'locations.roles.bank.customer'
+      'locations.roles.a giant peach.james',
+      'locations.roles.a giant peach.lady bug',
+      'locations.roles.a giant peach.miss spider',
+      'locations.roles.a giant peach.old green grasshopper',
+      'locations.roles.a giant peach.the centipede',
+      'locations.roles.a giant peach.the earthworm',
+      'locations.roles.a giant peach.the glowworm',
+      'locations.roles.a giant peach.the pit',
+      'locations.roles.a giant peach.the silkworm'
     ]
   },
   {
-    name: 'locations.beach',
+    name: 'locations.animal shelter',
     roles: [
-      'locations.roles.beach.beach waitress',
-      'locations.roles.beach.kite surfer',
-      'locations.roles.beach.lifeguard',
-      'locations.roles.beach.thief',
-      'locations.roles.beach.beach photographer',
-      'locations.roles.beach.ice cream truck driver',
-      'locations.roles.beach.beach goer'
+      'locations.roles.animal shelter.animal trainer',
+      'locations.roles.animal shelter.cat',
+      'locations.roles.animal shelter.coordinator',
+      'locations.roles.animal shelter.dog',
+      'locations.roles.animal shelter.lost pig',
+      'locations.roles.animal shelter.loving couple',
+      'locations.roles.animal shelter.vet',
+      'locations.roles.animal shelter.volunteer'
+    ]
+  },
+  {
+    name: 'locations.arcade',
+    roles: [
+      'locations.roles.arcade.bartender',
+      'locations.roles.arcade.chuck e cheese',
+      'locations.roles.arcade.game technician',
+      'locations.roles.arcade.pinball wizard',
+      'locations.roles.arcade.manager',
+      'locations.roles.arcade.owner',
+      'locations.roles.arcade.teen'
+    ]
+  },
+  {
+    name: 'locations.bakery',
+    roles: [
+      'locations.roles.bakery.cake decorator',
+      'locations.roles.bakery.cashier',
+      'locations.roles.bakery.counter staff',
+      'locations.roles.bakery.customer',
+      'locations.roles.bakery.head pastry chef',
+      'locations.roles.bakery.owner',
+      'locations.roles.bakery.prep baker'
     ]
   },
   {
     name: 'locations.cathedral',
     roles: [
-      'locations.roles.cathedral.priest',
       'locations.roles.cathedral.beggar',
-      'locations.roles.cathedral.sinner',
-      'locations.roles.cathedral.tourist',
-      'locations.roles.cathedral.sponsor',
       'locations.roles.cathedral.chorister',
-      'locations.roles.cathedral.parishioner'
+      'locations.roles.cathedral.parishioner',
+      'locations.roles.cathedral.priest',
+      'locations.roles.cathedral.sinner',
+      'locations.roles.cathedral.sponsor',
+      'locations.roles.cathedral.tourist'
     ]
   },
   {
-    name: 'locations.circus tent',
+    name: 'locations.concentration camp',
     roles: [
-      'locations.roles.circus tent.acrobat',
-      'locations.roles.circus tent.animal trainer',
-      'locations.roles.circus tent.magician',
-      'locations.roles.circus tent.fire eater',
-      'locations.roles.circus tent.clown',
-      'locations.roles.circus tent.juggler',
-      'locations.roles.circus tent.visitor'
+      'locations.roles.concentration camp.dr mengele',
+      'locations.roles.concentration camp.executioner',
+      'locations.roles.concentration camp.guard',
+      'locations.roles.concentration camp.jew',
+      'locations.roles.concentration camp.jewish sympathizer',
+      'locations.roles.concentration camp.nazi officer',
+      'locations.roles.concentration camp.world war ii spy'
     ]
   },
   {
-    name: 'locations.corporate party',
+    name: 'locations.corn maze',
     roles: [
-      'locations.roles.corporate party.entertainer',
-      'locations.roles.corporate party.manager',
-      'locations.roles.corporate party.unwanted guest',
-      'locations.roles.corporate party.owner',
-      'locations.roles.corporate party.secretary',
-      'locations.roles.corporate party.delivery boy',
-      'locations.roles.corporate party.accountant'
+      'locations.roles.corn maze.corn',
+      'locations.roles.corn maze.farmer',
+      'locations.roles.corn maze.family of four',
+      'locations.roles.corn maze.scarecrow',
+      'locations.roles.corn maze.farm hand',
+      'locations.roles.corn maze.ticket taker',
+      'locations.roles.corn maze.parking lot attendant'
     ]
   },
   {
-    name: 'locations.crusader army',
+    name: 'locations.detention',
     roles: [
-      'locations.roles.crusader army.monk',
-      'locations.roles.crusader army.imprisoned saracen',
-      'locations.roles.crusader army.servant',
-      'locations.roles.crusader army.bishop',
-      'locations.roles.crusader army.squire',
-      'locations.roles.crusader army.archer',
-      'locations.roles.crusader army.knight'
+      'locations.roles.detention.bully',
+      'locations.roles.detention.geek',
+      'locations.roles.detention.janitor',
+      'locations.roles.detention.juvenile delinquent',
+      'locations.roles.detention.principal',
+      'locations.roles.detention.student',
+      'locations.roles.detention.teacher'
     ]
   },
   {
-    name: 'locations.casino',
+    name: 'locations.gingerbread house',
     roles: [
-      'locations.roles.casino.bartender',
-      'locations.roles.casino.head security guard',
-      'locations.roles.casino.bouncer',
-      'locations.roles.casino.manager',
-      'locations.roles.casino.hustler',
-      'locations.roles.casino.dealer',
-      'locations.roles.casino.gambler'
+      'locations.roles.gingerbread house.enslaved child',
+      'locations.roles.gingerbread house.gingerbread man',
+      'locations.roles.gingerbread house.gretel',
+      'locations.roles.gingerbread house.gumdrop',
+      'locations.roles.gingerbread house.hansel',
+      'locations.roles.gingerbread house.the oven',
+      'locations.roles.gingerbread house.the witch'
     ]
   },
   {
-    name: 'locations.day spa',
+    name: 'locations.laundromat',
     roles: [
-      'locations.roles.day spa.stylist',
-      'locations.roles.day spa.masseuse',
-      'locations.roles.day spa.manicurist',
-      'locations.roles.day spa.makeup artist',
-      'locations.roles.day spa.dermatologist',
-      'locations.roles.day spa.beautician',
-      'locations.roles.day spa.customer'
+      'locations.roles.laundromat.attendant',
+      'locations.roles.laundromat.cashier',
+      'locations.roles.laundromat.customer',
+      'locations.roles.laundromat.laundry folder',
+      'locations.roles.laundromat.manager',
+      'locations.roles.laundromat.owner',
+      'locations.roles.laundromat.repairman'
     ]
   },
   {
-    name: 'locations.embassy',
+    name: 'locations.mcdonalds',
     roles: [
-      'locations.roles.embassy.security guard',
-      'locations.roles.embassy.secretary',
-      'locations.roles.embassy.ambassador',
-      'locations.roles.embassy.tourist',
-      'locations.roles.embassy.refugee',
-      'locations.roles.embassy.diplomat',
-      'locations.roles.embassy.government official'
+      'locations.roles.mcdonalds.customer',
+      'locations.roles.mcdonalds.franchise owner',
+      'locations.roles.mcdonalds.fry cook',
+      'locations.roles.mcdonalds.hamburglar',
+      'locations.roles.mcdonalds.host',
+      'locations.roles.mcdonalds.line cook',
+      'locations.roles.mcdonalds.manager',
+      'locations.roles.mcdonalds.ronald mcdonald'
     ]
   },
   {
-    name: 'locations.hospital',
+    name: 'locations.nail salon',
     roles: [
-      'locations.roles.hospital.nurse',
-      'locations.roles.hospital.doctor',
-      'locations.roles.hospital.anesthesiologist',
-      'locations.roles.hospital.intern',
-      'locations.roles.hospital.therapist',
-      'locations.roles.hospital.surgeon',
-      'locations.roles.hospital.patient'
+      'locations.roles.nail salon.customer',
+      'locations.roles.nail salon.manager',
+      'locations.roles.nail salon.manicurist',
+      'locations.roles.nail salon.nail art specialist',
+      'locations.roles.nail salon.nail technician',
+      'locations.roles.nail salon.owner',
+      'locations.roles.nail salon.pedicurist'
     ]
   },
   {
-    name: 'locations.hotel',
+    name: 'locations.optometrist office',
     roles: [
-      'locations.roles.hotel.doorman',
-      'locations.roles.hotel.security guard',
-      'locations.roles.hotel.manager',
-      'locations.roles.hotel.housekeeper',
-      'locations.roles.hotel.bartender',
-      'locations.roles.hotel.bellman',
-      'locations.roles.hotel.customer'
+      'locations.roles.optometrist office.blind bat',
+      'locations.roles.optometrist office.medical billing specialist',
+      'locations.roles.optometrist office.optometrist',
+      'locations.roles.optometrist office.patient',
+      'locations.roles.optometrist office.receptionist',
+      'locations.roles.optometrist office.salesperson',
+      'locations.roles.optometrist office.technician'
     ]
   },
   {
-    name: 'locations.military base',
+    name: 'locations.orgy',
     roles: [
-      'locations.roles.military base.deserter',
-      'locations.roles.military base.colonel',
-      'locations.roles.military base.medic',
-      'locations.roles.military base.sniper',
-      'locations.roles.military base.officer',
-      'locations.roles.military base.tank engineer',
-      'locations.roles.military base.soldier'
+      'locations.roles.orgy.keymaster',
+      'locations.roles.orgy.leader',
+      'locations.roles.orgy.masked man',
+      'locations.roles.orgy.participant',
+      'locations.roles.orgy.pool boy',
+      'locations.roles.orgy.spectator',
+      'locations.roles.orgy.unwanted guest'
     ]
   },
   {
-    name: 'locations.movie studio',
+    name: 'locations.petting zoo',
     roles: [
-      'locations.roles.movie studio.stunt man',
-      'locations.roles.movie studio.sound engineer',
-      'locations.roles.movie studio.camera man',
-      'locations.roles.movie studio.director',
-      'locations.roles.movie studio.costume artist',
-      'locations.roles.movie studio.producer',
-      'locations.roles.movie studio.actor'
+      'locations.roles.petting zoo.farm hand',
+      'locations.roles.petting zoo.goat',
+      'locations.roles.petting zoo.group of children',
+      'locations.roles.petting zoo.ostrich',
+      'locations.roles.petting zoo.pellet refiller',
+      'locations.roles.petting zoo.ticket taker',
+      'locations.roles.petting zoo.zookeeper'
     ]
   },
   {
-    name: 'locations.ocean liner',
+    name: 'locations.prison',
     roles: [
-      'locations.roles.ocean liner.cook',
-      'locations.roles.ocean liner.captain',
-      'locations.roles.ocean liner.bartender',
-      'locations.roles.ocean liner.musician',
-      'locations.roles.ocean liner.waiter',
-      'locations.roles.ocean liner.mechanic',
-      'locations.roles.ocean liner.rich passenger'
+      'locations.roles.prison.cook',
+      'locations.roles.prison.correctional officer',
+      'locations.roles.prison.criminal',
+      'locations.roles.prison.guard',
+      'locations.roles.prison.psychologist',
+      'locations.roles.prison.social worker',
+      'locations.roles.prison.warden'
     ]
   },
   {
-    name: 'locations.passenger train',
+    name: 'locations.roller rink',
     roles: [
-      'locations.roles.passenger train.mechanic',
-      'locations.roles.passenger train.border patrol',
-      'locations.roles.passenger train.train attendant',
-      'locations.roles.passenger train.restaurant chef',
-      'locations.roles.passenger train.train driver',
-      'locations.roles.passenger train.stoker',
-      'locations.roles.passenger train.passenger'
+      'locations.roles.roller rink.awkward couple',
+      'locations.roles.roller rink.dj',
+      'locations.roles.roller rink.nacho man',
+      'locations.roles.roller rink.nervous 7th grader',
+      'locations.roles.roller rink.roller skater',
+      'locations.roles.roller rink.rollerblader',
+      'locations.roles.roller rink.skate rental attendant'
     ]
   },
   {
-    name: 'locations.pirate ship',
+    name: 'locations.shooting range',
     roles: [
-      'locations.roles.pirate ship.cook',
-      'locations.roles.pirate ship.slave',
-      'locations.roles.pirate ship.cannoneer',
-      'locations.roles.pirate ship.tied up prisoner',
-      'locations.roles.pirate ship.cabin boy',
-      'locations.roles.pirate ship.brave captain',
-      'locations.roles.pirate ship.sailor'
+      'locations.roles.shooting range.ammunition salesman',
+      'locations.roles.shooting range.cop on the edge',
+      'locations.roles.shooting range.gun vendor',
+      'locations.roles.shooting range.hunter',
+      'locations.roles.shooting range.instructor',
+      'locations.roles.shooting range.range announcer',
+      'locations.roles.shooting range.vengeful wife'
     ]
   },
   {
-    name: 'locations.polar station',
+    name: 'locations.tattoo parlor',
     roles: [
-      'locations.roles.polar station.medic',
-      'locations.roles.polar station.expedition leader',
-      'locations.roles.polar station.biologist',
-      'locations.roles.polar station.radioman',
-      'locations.roles.polar station.hydrologist',
-      'locations.roles.polar station.meteorologist',
-      'locations.roles.polar station.geologist'
+      'locations.roles.tattoo parlor.body piercer',
+      'locations.roles.tattoo parlor.client',
+      'locations.roles.tattoo parlor.manager',
+      'locations.roles.tattoo parlor.owner',
+      'locations.roles.tattoo parlor.receptionist',
+      'locations.roles.tattoo parlor.tattoo apprentice',
+      'locations.roles.tattoo parlor.tattoo artist'
     ]
   },
   {
-    name: 'locations.police station',
+    name: 'locations.the future',
     roles: [
-      'locations.roles.police station.detective',
-      'locations.roles.police station.lawyer',
-      'locations.roles.police station.journalist',
-      'locations.roles.police station.criminalist',
-      'locations.roles.police station.archivist',
-      'locations.roles.police station.criminal',
-      'locations.roles.police station.patrol officer'
+      'locations.roles.the future.big brother',
+      'locations.roles.the future.cyborg',
+      'locations.roles.the future.hacker',
+      'locations.roles.the future.marauder',
+      'locations.roles.the future.spaceman',
+      'locations.roles.the future.the chosen one',
+      'locations.roles.the future.time traveler'
     ]
   },
   {
-    name: 'locations.restaurant',
+    name: 'locations.the grand canyon',
     roles: [
-      'locations.roles.restaurant.musician',
-      'locations.roles.restaurant.bouncer',
-      'locations.roles.restaurant.hostess',
-      'locations.roles.restaurant.head chef',
-      'locations.roles.restaurant.food critic',
-      'locations.roles.restaurant.waiter',
-      'locations.roles.restaurant.customer'
+      'locations.roles.the grand canyon.donkey keeper',
+      'locations.roles.the grand canyon.family of four',
+      'locations.roles.the grand canyon.park ranger',
+      'locations.roles.the grand canyon.photographer',
+      'locations.roles.the grand canyon.security officer',
+      'locations.roles.the grand canyon.tour driver',
+      'locations.roles.the grand canyon.tourist'
     ]
   },
   {
-    name: 'locations.school',
+    name: 'locations.the white house',
     roles: [
-      'locations.roles.school.gym teacher',
-      'locations.roles.school.principal',
-      'locations.roles.school.security guard',
-      'locations.roles.school.janitor',
-      'locations.roles.school.cafeteria lady',
-      'locations.roles.school.maintenance man',
-      'locations.roles.school.student'
+      'locations.roles.the white house.chief of staff',
+      'locations.roles.the white house.foreign diplomat',
+      'locations.roles.the white house.press',
+      'locations.roles.the white house.secret service agent',
+      'locations.roles.the white house.the first lady',
+      'locations.roles.the white house.the president',
+      'locations.roles.the white house.tourist'
     ]
   },
   {
-    name: 'locations.service station',
+    name: 'locations.the wild west',
     roles: [
-      'locations.roles.service station.manager',
-      'locations.roles.service station.tire specialist',
-      'locations.roles.service station.biker',
-      'locations.roles.service station.car owner',
-      'locations.roles.service station.car wash operator',
-      'locations.roles.service station.electrician',
-      'locations.roles.service station.auto mechanic'
+      'locations.roles.the wild west.bandit',
+      'locations.roles.the wild west.bounty hunter',
+      'locations.roles.the wild west.cowboy',
+      'locations.roles.the wild west.damsel in distress',
+      'locations.roles.the wild west.homesteader',
+      'locations.roles.the wild west.native american',
+      'locations.roles.the wild west.sheriff'
     ]
   },
   {
-    name: 'locations.space station',
+    name: 'locations.the womb',
     roles: [
-      'locations.roles.space station.engineer',
-      'locations.roles.space station.alien',
-      'locations.roles.space station.pilot',
-      'locations.roles.space station.commander',
-      'locations.roles.space station.scientist',
-      'locations.roles.space station.doctor',
-      'locations.roles.space station.space tourist'
+      'locations.roles.the womb.dad',
+      'locations.roles.the womb.egg',
+      'locations.roles.the womb.fetus',
+      'locations.roles.the womb.mom',
+      'locations.roles.the womb.placenta',
+      'locations.roles.the womb.sperm',
+      'locations.roles.the womb.white blood cell'
     ]
   },
   {
-    name: 'locations.submarine',
+    name: 'locations.theme park',
     roles: [
-      'locations.roles.submarine.cook',
-      'locations.roles.submarine.commander',
-      'locations.roles.submarine.sonar technician',
-      'locations.roles.submarine.electronics technician',
-      'locations.roles.submarine.radioman',
-      'locations.roles.submarine.navigator',
-      'locations.roles.submarine.sailor'
+      'locations.roles.theme park.cashier',
+      'locations.roles.theme park.entertainer',
+      'locations.roles.theme park.handyman',
+      'locations.roles.theme park.mechanic',
+      'locations.roles.theme park.park attendant',
+      'locations.roles.theme park.photographer',
+      'locations.roles.theme park.tourist'
     ]
   },
   {
-    name: 'locations.supermarket',
+    name: 'locations.ufo',
     roles: [
-      'locations.roles.supermarket.cashier',
-      'locations.roles.supermarket.butcher',
-      'locations.roles.supermarket.janitor',
-      'locations.roles.supermarket.security guard',
-      'locations.roles.supermarket.food sample demonstrator',
-      'locations.roles.supermarket.shelf stocker',
-      'locations.roles.supermarket.customer'
+      'locations.roles.ufo.abductee',
+      'locations.roles.ufo.alien',
+      'locations.roles.ufo.marvin the martian',
+      'locations.roles.ufo.mutant',
+      'locations.roles.ufo.probed man',
+      'locations.roles.ufo.spaceman',
+      'locations.roles.ufo.tupac'
     ]
   },
   {
-    name: 'locations.theater',
+    name: 'locations.woodstock',
     roles: [
-      'locations.roles.theater.coat check lady',
-      'locations.roles.theater.prompter',
-      'locations.roles.theater.cashier',
-      'locations.roles.theater.director',
-      'locations.roles.theater.actor',
-      'locations.roles.theater.crew man',
-      'locations.roles.theater.audience member'
-    ]
-  },
-  {
-    name: 'locations.university',
-    roles: [
-      'locations.roles.university.graduate student',
-      'locations.roles.university.professor',
-      'locations.roles.university.dean',
-      'locations.roles.university.psychologist',
-      'locations.roles.university.maintenance man',
-      'locations.roles.university.janitor',
-      'locations.roles.university.student'
-    ]
-  },
-  {
-    name: 'locations.world war ii squad',
-    roles: [
-      'locations.roles.world war ii squad.resistance fighter',
-      'locations.roles.world war ii squad.radioman',
-      'locations.roles.world war ii squad.scout',
-      'locations.roles.world war ii squad.medic',
-      'locations.roles.world war ii squad.cook',
-      'locations.roles.world war ii squad.imprisoned nazi',
-      'locations.roles.world war ii squad.soldier'
+      'locations.roles.woodstock.attendee',
+      'locations.roles.woodstock.festival organizer',
+      'locations.roles.woodstock.free spirit',
+      'locations.roles.woodstock.hippie',
+      'locations.roles.woodstock.jimi hendrix',
+      'locations.roles.woodstock.musician',
+      'locations.roles.woodstock.promoter'
     ]
   }
 ];

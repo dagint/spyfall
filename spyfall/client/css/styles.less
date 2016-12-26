@@ -20,6 +20,16 @@ h5 {
     padding: 3px 0;
 }
 
+.button-container button,
+.button-container button:hover,
+.button-container input[type="submit"],
+.button-container input[type="submit"]:hover {
+    background: #e96443;
+    background: -webkit-linear-gradient(to left, #e96443 , #904e95);
+    background: linear-gradient(to left, #e96443 , #904e95);
+    color: white;
+}
+
 .announcement {
     font-size: 0.8em;
     color: #000099;
@@ -412,11 +422,13 @@ input[type="text"] {
     height: 48px;
   }
 
-@media (max-width: 340px) {
-  .location-list li {
-    font-size: 12px;
-  }
+@media (max-width: 400px) {
+    .location-list li {
+        font-size: 11px;
+    }
+}
 
+@media (max-width: 340px) {
   .ingame-player-list li {
     width: 100%;
   }
