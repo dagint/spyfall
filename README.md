@@ -2,7 +2,7 @@
 
 Spyfall on your mobile device!
 
-This is the code that currently runs [http://spyfall.crabhat.com](http://spyfall.crabhat.com). It's a simple site I've built as a learning project, so definitely don't use it as an example of Meteor best practices. Pull requests welcome!
+This is the code that currently runs [http://spyfall.dagint.com](http://spyfall.dagint.com). It's a simple site I've built as a learning project, so definitely don't use it as an example of Meteor best practices. Pull requests welcome!
 
 ## Disclaimer
 
@@ -34,7 +34,7 @@ Please make sure that the translations you provide are as close as possible to t
 
 Clone the repository:
 
-	git clone https://github.com/evanbrumley/spyfall.git ./spyfall
+	git clone https://github.com/dagint/spyfall.git ./spyfall
 
 Enter the spyfall directory:
 
@@ -52,7 +52,7 @@ Sadly, production deployment has gotten a little trickier since meteor.com stopp
 
 ## Docker
 
-To run this instance in a docker container, check out [noamokman/docker-spyfall](https://github.com/noamokman/docker-spyfall)
+To run this instance in a docker container, check out [dagint/docker-spyfall](https://github.com/dagint/docker-spyfall)
 
 ## Links
 
